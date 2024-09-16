@@ -7,7 +7,7 @@
 - [License](#license)
 
 ## Description
-A progressive web application that uses JATE with IndexDB to behave as a text editor. This application allows users to create, edit, and save text documents directly in their browser, providing a seamless and efficient text editing experience.
+A progressive web application that uses JATE with IndexDB to behave as a text editor. This application allows users to create and save text documents directly in their browser, providing a seamless and efficient text editing experience.
 
 [![](./public/screenshot.png)](https://mikematics22800.github.io/PWA-Text-Editor)
 
